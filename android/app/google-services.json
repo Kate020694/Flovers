@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390834732929",
+    "project_id": "flowers-3qzula",
+    "storage_bucket": "flowers-3qzula.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390834732929:android:c0df0414d2a0066cb0b280",
+        "android_client_info": {
+          "package_name": "com.mycompany.flowers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPVTqUy4qaGY_jjcZZsZjfEcMbxFsnPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
